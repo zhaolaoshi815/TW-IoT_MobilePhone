@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="11px" height="6px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+  </defs>
+  <g transform="matrix(1 0 0 1 -150 -28 )">
+    <path d="M 9.988095238095239 0.75  L 0.011904761904761228 0.03750000000000142  L 4.083333333333335 4.512499999999999  C 4.666666666666665 5.125  5.630952380952382 5.125  6.2142857142857135 4.512499999999999  L 9.988095238095239 0.75  Z " fill-rule="nonzero" fill="rgba(213, 218, 230, 1)" stroke="none" transform="matrix(1 0 0 1 150 28 )" class="fill" />
+    <path d="M 0.011904761904761228 0.03750000000000142  L 4.083333333333335 4.512499999999999  C 4.666666666666665 5.125  5.630952380952382 5.125  6.2142857142857135 4.512499999999999  L 9.988095238095239 0.75  " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 150 28 )" class="stroke" />
+  </g>
+</svg>

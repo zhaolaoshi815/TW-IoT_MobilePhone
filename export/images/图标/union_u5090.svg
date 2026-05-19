@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip299">
+      <path d="M 11 0  C 11.552285200000028 0  12 0.44771528000001126  12 1  L 12 11  C 12 11.552285200000028  11.552284200000031 12  11 12  L 1 12  C 0.44771504000004825 12  0 11.552284199999974  0 11  L 0 1  C 0 0.4477150399999914  0.44771528000001126 0  1 0  L 11 0  Z M 5.5 1  L 1 1  L 1 5.5  L 5.5 5.5  L 5.5 1  Z M 6.5 11  L 11 11  L 11 6.5  L 6.5 6.5  L 6.5 11  Z M 1 11  L 5.5 11  L 5.5 6.5  L 1 6.5  L 1 11  Z M 6.5 5.5  L 11 5.5  L 11 1  L 6.5 1  L 6.5 5.5  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -918 -362 )">
+    <path d="M 11 0  C 11.552285200000028 0  12 0.44771528000001126  12 1  L 12 11  C 12 11.552285200000028  11.552284200000031 12  11 12  L 1 12  C 0.44771504000004825 12  0 11.552284199999974  0 11  L 0 1  C 0 0.4477150399999914  0.44771528000001126 0  1 0  L 11 0  Z M 5.5 1  L 1 1  L 1 5.5  L 5.5 5.5  L 5.5 1  Z M 6.5 11  L 11 11  L 11 6.5  L 6.5 6.5  L 6.5 11  Z M 1 11  L 5.5 11  L 5.5 6.5  L 1 6.5  L 1 11  Z M 6.5 5.5  L 11 5.5  L 11 1  L 6.5 1  L 6.5 5.5  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" transform="matrix(1 0 0 1 918 362 )" class="fill" />
+    <path d="M 11 0  C 11.552285200000028 0  12 0.44771528000001126  12 1  L 12 11  C 12 11.552285200000028  11.552284200000031 12  11 12  L 1 12  C 0.44771504000004825 12  0 11.552284199999974  0 11  L 0 1  C 0 0.4477150399999914  0.44771528000001126 0  1 0  L 11 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 918 362 )" class="stroke" mask="url(#Clip299)" />
+    <path d="M 5.5 1  L 1 1  L 1 5.5  L 5.5 5.5  L 5.5 1  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 918 362 )" class="stroke" mask="url(#Clip299)" />
+    <path d="M 6.5 11  L 11 11  L 11 6.5  L 6.5 6.5  L 6.5 11  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 918 362 )" class="stroke" mask="url(#Clip299)" />
+    <path d="M 1 11  L 5.5 11  L 5.5 6.5  L 1 6.5  L 1 11  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 918 362 )" class="stroke" mask="url(#Clip299)" />
+    <path d="M 6.5 5.5  L 11 5.5  L 11 1  L 6.5 1  L 6.5 5.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 918 362 )" class="stroke" mask="url(#Clip299)" />
+  </g>
+</svg>
