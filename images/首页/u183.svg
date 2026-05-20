@@ -2,12 +2,12 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="14px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip498">
+    <mask fill="white" id="Clip1286">
       <path d="M 0 7  C 0 3.0799999999999996  3.3 0  7.5 0  C 11.700000000000001 0  15 3.0799999999999996  15 7  C 15 10.92  11.700000000000001 14  7.5 14  C 3.3 14  0 10.92  0 7  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -60 -74 )">
     <path d="M 0 7  C 0 3.0799999999999996  3.3 0  7.5 0  C 11.700000000000001 0  15 3.0799999999999996  15 7  C 15 10.92  11.700000000000001 14  7.5 14  C 3.3 14  0 10.92  0 7  Z " fill-rule="nonzero" fill="rgba(227, 77, 89, 1)" stroke="none" transform="matrix(1 0 0 1 60 74 )" class="fill" />
-    <path d="M 0 7  C 0 3.0799999999999996  3.3 0  7.5 0  C 11.700000000000001 0  15 3.0799999999999996  15 7  C 15 10.92  11.700000000000001 14  7.5 14  C 3.3 14  0 10.92  0 7  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(227, 77, 89, 1)" fill="none" transform="matrix(1 0 0 1 60 74 )" class="stroke" mask="url(#Clip498)" />
+    <path d="M 0 7  C 0 3.0799999999999996  3.3 0  7.5 0  C 11.700000000000001 0  15 3.0799999999999996  15 7  C 15 10.92  11.700000000000001 14  7.5 14  C 3.3 14  0 10.92  0 7  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(227, 77, 89, 1)" fill="none" transform="matrix(1 0 0 1 60 74 )" class="stroke" mask="url(#Clip1286)" />
   </g>
 </svg>
