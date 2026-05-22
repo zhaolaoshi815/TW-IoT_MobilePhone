@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="12px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip190">
+      <path d="M 1.5 9  L 6.5 9  L 6.5 11  L 2 11  L 2 12  L 12 12  L 12 11  L 7.5 11  L 7.5 9  L 12.5 9  C 13.052284200000003 9  13.5 8.5522833  13.5 8  L 13.5 1  C 13.5 0.4477161199999955  13.0522852 0  12.5 0  L 1.5 0  C 0.9477149199999958 0  0.5 0.4477167100000088  0.5 1  L 0.5 8  C 0.5 8.552284199999974  0.9477152200000063 9  1.5 9  Z M 12.5 8  L 1.5 8  L 1.5 1  L 12.5 1  L 12.5 8  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -101 -362 )">
+    <path d="M 1.5 9  L 6.5 9  L 6.5 11  L 2 11  L 2 12  L 12 12  L 12 11  L 7.5 11  L 7.5 9  L 12.5 9  C 13.052284200000003 9  13.5 8.5522833  13.5 8  L 13.5 1  C 13.5 0.4477161199999955  13.0522852 0  12.5 0  L 1.5 0  C 0.9477149199999958 0  0.5 0.4477167100000088  0.5 1  L 0.5 8  C 0.5 8.552284199999974  0.9477152200000063 9  1.5 9  Z M 12.5 8  L 1.5 8  L 1.5 1  L 12.5 1  L 12.5 8  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 0.8980392156862745)" stroke="none" transform="matrix(1 0 0 1 101 362 )" class="fill" />
+    <path d="M 1.5 9  L 6.5 9  L 6.5 11  L 2 11  L 2 12  L 12 12  L 12 11  L 7.5 11  L 7.5 9  L 12.5 9  C 13.052284200000003 9  13.5 8.5522833  13.5 8  L 13.5 1  C 13.5 0.4477161199999955  13.0522852 0  12.5 0  L 1.5 0  C 0.9477149199999958 0  0.5 0.4477167100000088  0.5 1  L 0.5 8  C 0.5 8.552284199999974  0.9477152200000063 9  1.5 9  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 101 362 )" class="stroke" mask="url(#Clip190)" />
+    <path d="M 12.5 8  L 1.5 8  L 1.5 1  L 12.5 1  L 12.5 8  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 101 362 )" class="stroke" mask="url(#Clip190)" />
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip312">
+      <path d="M 7 0  C 10.865999999999985 0  14 3.1340099999999893  14 7  C 14 10.865999999999985  10.865999999999985 14  7 14  C 3.1340099999999893 14  0 10.865999999999985  0 7  C 0 3.1340099999999893  3.1340099999999893 0  7 0  Z M 6 4  L 5 4  L 5 10  L 6 10  L 6 4  Z M 9 10.000010000000003  L 9 4.000010000000003  L 8 4.000010000000003  L 8 10.000010000000003  L 9 10.000010000000003  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -821 -1 )">
+    <path d="M 7 0  C 10.865999999999985 0  14 3.1340099999999893  14 7  C 14 10.865999999999985  10.865999999999985 14  7 14  C 3.1340099999999893 14  0 10.865999999999985  0 7  C 0 3.1340099999999893  3.1340099999999893 0  7 0  Z M 6 4  L 5 4  L 5 10  L 6 10  L 6 4  Z M 9 10.000010000000003  L 9 4.000010000000003  L 8 4.000010000000003  L 8 10.000010000000003  L 9 10.000010000000003  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 0.8980392156862745)" stroke="none" transform="matrix(1 0 0 1 821 1 )" class="fill" />
+    <path d="M 7 0  C 10.865999999999985 0  14 3.1340099999999893  14 7  C 14 10.865999999999985  10.865999999999985 14  7 14  C 3.1340099999999893 14  0 10.865999999999985  0 7  C 0 3.1340099999999893  3.1340099999999893 0  7 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 821 1 )" class="stroke" mask="url(#Clip312)" />
+    <path d="M 6 4  L 5 4  L 5 10  L 6 10  L 6 4  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 821 1 )" class="stroke" mask="url(#Clip312)" />
+    <path d="M 9 10.000010000000003  L 9 4.000010000000003  L 8 4.000010000000003  L 8 10.000010000000003  L 9 10.000010000000003  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 821 1 )" class="stroke" mask="url(#Clip312)" />
+  </g>
+</svg>
